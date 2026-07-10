@@ -1,0 +1,25 @@
+The CPU's job is incredibly simple:
+
+    Fetch an instruction
+        ↓
+    Understand the instruction
+        ↓
+    Execute the instruction
+        ↓
+    Repeat
+
+
+
+    Memory
+          ↓
+        FETCH
+          ↓
+        DECODE
+          ↓
+        EXECUTE
+          ↓
+        FETCH
+          ↓
+        DECODE
+          ↓
+        EXECUTE
