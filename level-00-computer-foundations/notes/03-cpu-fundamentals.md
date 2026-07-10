@@ -331,3 +331,58 @@ Computer architecture is largely about managing the trade-off between:
 - capacity
 - cost
 - power consumption
+
+
+
+## why is Register faster than Ram
+
+Physical distance does matter.
+
+Signals take time to travel.
+
+But if distance were the only reason, engineers would simply move RAM closer.
+
+The real answer is deeper.
+
+The Real Reasons
+
+1. Registers are built differently
+
+Registers are made from extremely fast circuitry inside the CPU.
+
+They are designed purely for speed.
+
+RAM is designed for:
+
+large capacity
+lower cost
+reasonable speed
+
+You cannot economically build 32 GB of registers.
+
+2. RAM is much larger
+
+Imagine:
+
+Desk drawer → Registers
+Warehouse → RAM
+
+Finding something in a huge warehouse is naturally slower than grabbing something already on your desk.
+
+3. RAM is outside the CPU
+
+To access RAM:
+
+    CPU
+     ↓
+    Memory controller
+      ↓
+    Motherboard traces
+      ↓
+    RAM chip
+      ↓
+    Data returns
+
+This takes time.
+
+Registers are already inside the CPU.
