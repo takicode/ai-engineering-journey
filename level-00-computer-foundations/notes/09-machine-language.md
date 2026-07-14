@@ -302,3 +302,14 @@ The CPU does not understand Python.
 It understands only machine language, which consists of binary instructions defined by its instruction set.
 
 Programming languages exist to help humans express complex ideas, which are eventually translated into machine instructions.
+
+
+## Insights Beyond the Lesson
+
+### Meaning vs Computation
+
+The CPU does not understand the meaning of data.
+
+Whether a number represents a bank balance, a pixel, or a neural network weight, the CPU performs the same operations on it.
+
+Meaning is defined by software; computation is performed by hardware.
