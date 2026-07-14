@@ -8,7 +8,9 @@ A bit is the smallest, most fundamental unit of information in computing. It rep
 Exercise 2
 
 Why does adding one more bit double the number of possible values?
+Each previous combination (0 and 1) now has two versions, one beginning with 0 and one beginning with 1.
 
+Therefore, every additional bit doubles the total number of possible combinations, giving 2ⁿ combinations for n bits.
 Exercise 3
 
 How many values can:

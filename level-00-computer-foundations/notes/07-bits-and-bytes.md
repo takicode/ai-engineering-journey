@@ -320,3 +320,20 @@ We'll cover encodings later, so don't worry about the details yet.
 - Adding one more bit doubles the number of possible combinations.
 - A byte is 8 bits and can represent 256 different values.
 - Computers store numbers, text, images, and programs as sequences of bytes.
+
+
+## Insights Beyond the Lesson
+
+### Information Grows Exponentially
+
+Every additional bit doubles the number of possible combinations.
+
+This means that a small increase in the number of bits can represent dramatically more information.
+
+Examples:
+
+- 8 bits = 256 values
+- 16 bits = 65,536 values
+- 32 bits = 4,294,967,296 values
+
+This exponential growth is one of the fundamental ideas behind computing.
