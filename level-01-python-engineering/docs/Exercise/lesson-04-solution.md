@@ -89,7 +89,7 @@ For example, if a configuration object CONFIG = {"timeout": 30} was passed to a 
 
 With immutable objects, you can share a reference with 100 different parts of a program without worrying that one part will accidentally alter the data for everyone else.
 
-Exercise 5 (Thinking)
+## Exercise 5 (Thinking)
 
 Suppose Python made lists immutable.
 
@@ -117,7 +117,7 @@ Would programs become simpler, slower, or both?Both.They would become simpler be
 
 You could safely pass lists around without fearing accidental modifications.They would become dramatically slower and consume massive amounts of extra RAM, because the CPU would waste immense processing cycles constantly copying data structures for basic updates.
 
-Exercise 6 (Challenge)
+## Exercise 6 (Challenge)
 
 A student says:
 
