@@ -213,3 +213,30 @@ roadmap
     ├── LEVEL 10 — MLOps
     │
     └── LEVEL 11 — Capstone Projects
+
+
+    LEVEL 0 — Computer Foundations ✅
+
+LEVEL 1 — Python Engineering
+
+Chapter 2 — Python Object Model ✅
+
+Chapter 3 — Variables, Memory & Scope ✅
+
+▶ Chapter 4 — Functions
+
+Chapter 5 — Variables, Types & Memory
+
+Chapter 6 — Control Flow
+
+Chapter 7 — Built-in Data Structures
+
+Chapter 8 — Iteration
+
+Chapter 9 — Object-Oriented Programming
+
+Chapter 10 — Advanced Python
+
+Chapter 11 — Python Engineering Environment
+
+Chapter 12 — Python Runtime Internals
