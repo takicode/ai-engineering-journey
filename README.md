@@ -223,9 +223,9 @@ Chapter 2 — Python Object Model ✅
 
 Chapter 3 — Variables, Memory & Scope ✅
 
-▶ Chapter 4 — Functions
+ Chapter 4 — Functions ✅
 
-Chapter 5 — Variables, Types & Memory
+▶ Chapter 5 — Variables, Types & Memory
 
 Chapter 6 — Control Flow
 
