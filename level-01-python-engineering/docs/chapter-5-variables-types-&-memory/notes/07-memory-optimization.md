@@ -58,13 +58,13 @@ For example:
 
 Conceptually:
 
-    a ─────┐
-        │
-        ▼
-        10
-        ▲
-        │
-    b ─────┘
+    a  ─────┐
+            │
+            ▼
+            10
+            ▲
+            │
+    b  ─────┘
 
 One object.
 
